@@ -6,4 +6,4 @@
 4. Single Page App(SPA)
 5. Deploying app in EC2 Linux machine
 6. Submit your work using your Github account
-7. Deadline to submit the task is 03:00 PM EST
+7. Deadline to submit the task is 03:00 PM EST 20th July 2020
